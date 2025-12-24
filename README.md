@@ -108,7 +108,6 @@ It includes:
 8. Delete the VM
    ![alt text](vm_deleted.png)
    
-10. Confirm no remaining disks, snapshots, or IPs exist  
 
 ---
 
