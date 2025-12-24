@@ -67,9 +67,9 @@ The narration discusses:
 - Differences in naming, defaults, quotas, and user interface  
 - My platform preference for running a small VM and the reasons behind it
 
-  GCP: https://www.icloud.com/iclouddrive/087ub4wkTc3mj4oXr7pncflOg#Screen_Recording_2025-12-24_at_1.44.09_AM
+  LINK : https://www.icloud.com/iclouddrive/087ub4wkTc3mj4oXr7pncflOg#Screen_Recording_2025-12-24_at_1.44.09_AM
   
-  OCI:
+ 
 
 ---
 
@@ -122,10 +122,15 @@ It includes:
    - Attach the instance to an existing VCN and subnet  
    - Assign a public IP if required  
    - Upload an SSH public key if planning to connect  
-3. Launch the instance and wait for RUNNING status  
-4. Stop the instance and verify it shows STOPPED  
-5. Terminate the instance and ensure the boot volume is deleted  
-6. Confirm that no compute instances, boot volumes, or public IPs remain  
+3. Launch the instance and wait for RUNNING status
+      ![alt text](oci_run.png)
+
+5. Stop the instance and verify it shows STOPPED
+      ![alt text](oci_stop.png)
+
+7. Terminate the instance and ensure the boot volume is deleted
+      ![alt text](oci_terminate.png)
+
 
 ---
 
