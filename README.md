@@ -67,7 +67,8 @@ The narration discusses:
 - Differences in naming, defaults, quotas, and user interface  
 - My platform preference for running a small VM and the reasons behind it
 
-  GCP:
+  GCP: https://www.icloud.com/iclouddrive/087ub4wkTc3mj4oXr7pncflOg#Screen_Recording_2025-12-24_at_1.44.09_AM
+  
   OCI:
 
 ---
